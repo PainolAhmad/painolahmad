@@ -1,4 +1,4 @@
-![I'm website designer & hafiz of the Qur'an](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqFjd-rZPABKDBnwQZpN5EtDUCiNoiYmZYCQ&usqp=CAU)
+![I'm website designer & hafiz of the Qur'an](p1.jpg)
 ### Hi there 👋, i'm
 # Painol Ahmad
 #### Website designer & hafiz of the Qur'an

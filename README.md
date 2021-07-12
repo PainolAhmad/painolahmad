@@ -1,6 +1,6 @@
 ![I'm website designer & hafiz of the Qur'an](p1.jpg)
-### Hi there 👋, i'm
-# Painol Ahmad
+### __Hi there 👋, i'm__
+# __Painol Ahmad__
 #### Website designer & hafiz of the Qur'an
 
 ![Profile views](https://gpvc.arturio.dev/PainolAhmad)

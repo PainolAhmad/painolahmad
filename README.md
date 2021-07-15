@@ -13,7 +13,3 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PainolAhmad&theme=cobalt&show_icons=true)
 #### GITHUB STREAK STATS 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=PainolAhmad&theme=cobalt)
-
-
-
-&
